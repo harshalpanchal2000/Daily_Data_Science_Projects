@@ -14,11 +14,11 @@ This project analyzes the effectiveness of a promotional strategy conducted by S
 1. **Data Exploration:** Descriptive statistics, histograms, boxplots, and correlation analysis were conducted to understand the dataset's characteristics.
 2. **Relationship between Control & Treatment Groups:** Proportion analysis and comparison of purchase rates between treatment and control groups.
 3. **Calculating IRR & NIR:** Incremental Response Rate (IRR) and Net Incremental Revenue (NIR) were computed to evaluate the promotion's impact.
-4. **Insights & Recommendations:** Interpretation of results and recommendations for optimizing promotional strategies.
+4. **Results & Insights:** Interpretation of results and insights derived from the analysis.
 
-## Results
-- **Net Incremental Revenue (NIR):** The promotion resulted in a negative NIR, indicating a loss in revenue.
-- **Incremental Response Rate (IRR):** The IRR was negative, suggesting a decrease in the response rate due to the promotion.
+## Results & Insights
+- **Net Incremental Revenue (NIR):** The promotion resulted in a negative NIR of approximately -10345.5 CAD, indicating a loss in revenue. This suggests that the cost of promotions exceeded the additional revenue generated.
+- **Incremental Response Rate (IRR):** The IRR was negative (-0.0095), suggesting a decrease in the response rate due to the promotion. This indicates that fewer customers made purchases with the promotion compared to without it.
 
 ## Conclusion
 The promotional strategy employed by Starbucks did not yield favorable results in terms of revenue generation and customer response. Further adjustments or alternative strategies may be necessary to improve effectiveness.
